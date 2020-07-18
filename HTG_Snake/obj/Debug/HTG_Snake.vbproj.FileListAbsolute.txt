@@ -1,0 +1,12 @@
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbprojAssemblyReference.cache
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbproj.GenerateResource.cache
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\HTG_Snake.vbproj.CoreCompileInputs.cache
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\bin\Debug\Snake.exe.config
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\bin\Debug\Snake.exe
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\bin\Debug\Snake.pdb
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\bin\Debug\Snake.xml
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\Snake.frmSnake.resources
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\Snake.Resources.resources
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\Snake.exe
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\Snake.xml
+C:\Users\Yashen\Downloads\HTG_Snake-master\HTG_Snake-master\HTG_Snake\obj\Debug\Snake.pdb
